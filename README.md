@@ -4,11 +4,11 @@ This repository contains practical assignments developed as part of a university
 
 ## Contents
 
-- **P1_kmedias_aglom.ipynb**  
-  *K-means and Agglomerative Clustering*:  
+- **P1_agg_kmeans.ipynb**  
+  *Agglomerative and K-means Clustering*:  
   Introduction to unsupervised learning techniques for grouping data. The notebook covers both K-means clustering and agglomerative (hierarchical) clustering methods.
 
-- **P2_kmedias_init.ipynb**  
+- **P2_kmeans_init.ipynb**  
   *K-means Initialization Methods*:  
   Study and comparison of different initialization strategies for the K-means clustering algorithm, analyzing their impact on performance and clustering quality.
 
@@ -20,7 +20,7 @@ This repository contains practical assignments developed as part of a university
   *Recurrent Neural Networks (RNNs)*:  
   Implementation and experimentation with RNN architectures, focusing on their application to sequence and time series data within deep learning.
 
-- **P5_CONVOLUCIONALES.ipynb**  
+- **P5_CNNs.ipynb**  
   *Convolutional Neural Networks (CNNs)*:  
   Study of convolutional neural networks, with applications mainly in image recognition and computer vision tasks.
 
